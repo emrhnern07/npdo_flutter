@@ -1,16 +1,4 @@
-# npdo_flutter
+NOT PAYLAŞIM VE DUYURU OTOMASYONU
+![npdo_logo](https://user-images.githubusercontent.com/85686693/214048120-44352df4-3966-4b2b-af07-f1a4b5b037d1.png)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Video ve rapor link: https://drive.google.com/drive/folders/1J3Oe-IYgPo31sTlh77NMIqQtB8dImYgs?usp=sharing
